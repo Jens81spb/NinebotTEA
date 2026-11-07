@@ -1,0 +1,15 @@
+src/
+  app/
+    globals.css
+    layout.tsx
+    page.tsx
+  components/
+    dashboard/
+      StatCard.tsx
+      BatteryChart.tsx
+      SpeedChart.tsx
+      MapPanel.tsx
+      AlertList.tsx
+      RideTable.tsx
+  lib/
+    mockData.ts
